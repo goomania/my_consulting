@@ -1,0 +1,15 @@
+{
+  "name": "AISprint",
+  "short_name": "AISprint",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081019",
+  "theme_color": "#081019",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
